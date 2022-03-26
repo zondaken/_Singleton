@@ -1,0 +1,15 @@
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\bin\Debug\net6.0\_Singleton.exe
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\bin\Debug\net6.0\_Singleton.deps.json
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\bin\Debug\net6.0\_Singleton.runtimeconfig.json
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\bin\Debug\net6.0\_Singleton.dll
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\bin\Debug\net6.0\_Singleton.pdb
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\obj\Debug\net6.0\_Singleton.csproj.AssemblyReference.cache
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\obj\Debug\net6.0\_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\obj\Debug\net6.0\_Singleton.AssemblyInfoInputs.cache
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\obj\Debug\net6.0\_Singleton.AssemblyInfo.cs
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\obj\Debug\net6.0\_Singleton.csproj.CoreCompileInputs.cache
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\obj\Debug\net6.0\_Singleton.dll
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\obj\Debug\net6.0\refint\_Singleton.dll
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\obj\Debug\net6.0\_Singleton.pdb
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\obj\Debug\net6.0\_Singleton.genruntimeconfig.cache
+E:\Daten\Informatik\Programmierung (Neu)\C#\RiderProjects\_Singleton\_Singleton\obj\Debug\net6.0\ref\_Singleton.dll
